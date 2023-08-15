@@ -1,2 +1,2 @@
-# recommendes_systems
-Collaborative filtering and Content similatiry based recommender systems
+# recommender_systems
+Collaborative filtering and Content similarity based recommender systems
